@@ -119,7 +119,7 @@ If an environment variable is set, its value will always replace the value
 set in the existing parameters file.
 
 As environment variables can only be strings, they are also parsed as inline
-Yaml values to allows specifying ``null``, ``false``, ``true`` or numbers
+Yaml values to allow specifying ``null``, ``false``, ``true`` or numbers
 easily.
 
 ### Renaming parameters
